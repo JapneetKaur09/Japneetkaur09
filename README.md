@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Neural Networks for Solving Differential Equations in Python and Deep Learning**
 
-- 💬 Ask me about **Training Neural Networks for unconventional problems 🧠 How mathematics powers AI & ML 🔢➡️🤖 My experience balancing research, leadership, and tech 🎓⚡ Creative ways to visualize complex data 📊 Automating daily tasks with low-code/no-code tools ⚡ My take on the future of AI in technology and innovation 🎯 Lessons from teamwork & decision-making as a CR 🤝 How to turn internship experiences into career growth 🚀**
+- 💬 Ask me about **Training Neural Networks for unconventional problems 🧠 How mathematics powers AI & ML 🔢➡️🤖 My experience balancing research, leadership, and tech 🎓⚡ Creative ways to visualize complex data 📊 Lessons from teamwork & decision-making as a CR 🤝**
 
 - 📫 How to reach me **japneetsudha25@gmail.com**
 

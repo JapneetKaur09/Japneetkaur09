@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Neural Networks for Solving Differential Equations in Python and Deep Learning**
 
-- 💬 Ask me about **Training Neural Networks for unconventional problems 🧠 How mathematics powers AI & ML 🔢➡️🤖 My experience balancing research, leadership, and tech 🎓⚡ Creative ways to visualize complex data 📊 Lessons from teamwork & decision-making as a CR 🤝**
+- 💬 Ask me about **Training Neural Networks for unconventional problems 🧠 How mathematics powers AI & ML 🔢➡️🤖 Lessons from teamwork & decision-making as a CR 🤝**
 
-- 📫 How to reach me **https://www.linkedin.com/in/japneet-kaur-869786289/**
+- 📫 How to reach me **kjapneet2008@gmail.com**
 
-- ⚡ Fun fact **I make Neural Networks do math so I can just watch 📉🤖 My debugging process: 1. Panic 😱 2. Google 🔍 3. Fix it 🎯 4. No idea how it worked 🤷‍♂️ Power BI crashes? That’s just its way of testing my patience 🧘‍♂️📊 My Python code runs perfectly—on the second try 🐍💻 “I’ll sleep after this one last fix” = Biggest lie ever 😴❌ My laptop fans work harder than me during model training 🌪️🔥**
+- ⚡ Fun fact **My debugging process: 1. Panic 😱 2. Google 🔍 3. Fix it 🎯 4. No idea how it worked 🤷‍♂️ “I’ll sleep after this one last fix” = Biggest lie ever 😴❌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

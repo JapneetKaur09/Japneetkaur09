@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Training Neural Networks for unconventional problems 🧠 How mathematics powers AI & ML 🔢➡️🤖 My experience balancing research, leadership, and tech 🎓⚡ Creative ways to visualize complex data 📊 Lessons from teamwork & decision-making as a CR 🤝**
 
-- 📫 How to reach me **japneetsudha25@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/japneet-kaur-869786289/**
 
 - ⚡ Fun fact **I make Neural Networks do math so I can just watch 📉🤖 My debugging process: 1. Panic 😱 2. Google 🔍 3. Fix it 🎯 4. No idea how it worked 🤷‍♂️ Power BI crashes? That’s just its way of testing my patience 🧘‍♂️📊 My Python code runs perfectly—on the second try 🐍💻 “I’ll sleep after this one last fix” = Biggest lie ever 😴❌ My laptop fans work harder than me during model training 🌪️🔥**
 
